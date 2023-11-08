@@ -1,4 +1,4 @@
-# Movie API and User API Documentation
+# Implementing a Movies RESTFUL API and User API Documentation
 
 This documentation provides an overview of the Movie API and User API, built using Node.js and Express.
 
