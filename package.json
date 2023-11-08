@@ -1,0 +1,24 @@
+{
+  "name": "moviesapi",
+  "version": "1.0.0",
+  "description": "A movies api project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/sammyovia/moviesapi.git"
+  },
+  "author": "Samuel Igbinovia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sammyovia/moviesapi/issues"
+  },
+  "homepage": "https://github.com/sammyovia/moviesapi#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1"
+  }
+}
